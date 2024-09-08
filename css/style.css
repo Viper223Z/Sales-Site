@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: #3d16da;
     color: white;
     padding: 10px 0;
     border-bottom: 2px solid #ccc; /* Dodanie dolnej linii */
@@ -50,24 +50,24 @@ header {
 .order-item h3 {
     font-size: 18px;
     margin: 0;
-    color: #333;
+    color: #3d16da;
 }
 
 .order-item h4 {
     font-size: 16px;
     margin: 10px 0;
-    color: #555;
+    color: #3d16da;
 }
 
 .order-item p {
     font-size: 14px;
-    color: #777;
+    color: #3d16da;
     margin: 5px 0;
 }
 
 .order-item .price, .order-item .total-price {
     font-weight: bold;
-    color: #e60000;
+    color: #3d16da;
 }
 
 .account-container {
@@ -126,7 +126,7 @@ header {
     text-align: left;
     margin-bottom: 10px;
     font-weight: bold;
-    color: #555;
+    color: #3d16da;
 }
 
 .profile-edit-form input[type="text"],
@@ -147,7 +147,7 @@ header {
 
 .profile-edit-form input[type="submit"] {
     padding: 10px 20px;
-    background-color: #333;
+    background-color: #3d16da;
     color: white;
     border: none;
     border-radius: 5px;
@@ -155,7 +155,7 @@ header {
 }
 
 .profile-edit-form input[type="submit"]:hover {
-    background-color: #555;
+    background-color: #3d16da;
 }
 
 .message {
@@ -274,7 +274,7 @@ form input, form textarea {
 
 .auth-form input[type="submit"] {
     padding: 10px 20px;
-    background-color: #333;
+    background-color: #3d16da;
     color: white;
     border: none;
     border-radius: 5px;
@@ -282,7 +282,7 @@ form input, form textarea {
 }
 
 .auth-form input[type="submit"]:hover {
-    background-color: #555;
+    background-color: #3d16da;
 }
 
 
@@ -339,7 +339,7 @@ form input, form textarea {
 
 .offer-card .price {
     font-weight: bold;
-    color: #e60000;
+    color: #3d16da;
 }
 
 .offer-details-page {
@@ -367,7 +367,7 @@ form input, form textarea {
 
 .offer-description .price {
     font-weight: bold;
-    color: #e60000;
+    color: #3d16da;
 }
 
 .offer-description .user-nick {
@@ -381,7 +381,7 @@ form input, form textarea {
 
 .add-to-cart-form input[type="submit"] {
     padding: 10px 20px;
-    background-color: #e60000;
+    background-color: #3d16da;
     color: white;
     border: none;
     cursor: pointer;
@@ -433,7 +433,7 @@ form input, form textarea {
 
 .cart-details .price {
     font-weight: bold;
-    color: #e60000;
+    color: #3d16da;
 }
 
 .cart-summary {
@@ -502,7 +502,7 @@ form input, form textarea {
 }
 
 footer {
-    background-color: #333;
+    background-color: #3d16da;
     color: white;
     text-align: center;
     padding: 10px 0;
@@ -526,7 +526,7 @@ footer {
 
 .add-to-cart-form input[type="submit"] {
     padding: 10px 20px;
-    background-color: #e60000;
+    background-color: #3d16da;
     color: white;
     border: none;
     border-radius: 5px;
@@ -535,7 +535,7 @@ footer {
 }
 
 .add-to-cart-form input[type="submit"]:hover {
-    background-color: #c20000;
+    background-color: #3d16da;
 }
 
 .cart-item .cart-details p {
